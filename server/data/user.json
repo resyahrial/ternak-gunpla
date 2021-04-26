@@ -1,0 +1,23 @@
+[
+  {
+    "first_name": "admin",
+    "last_name": "admin",
+    "email": "admin@mail.com",
+    "password": "admin",
+    "role": "admin"
+  },
+  {
+    "first_name": "customer",
+    "last_name": "customer",
+    "email": "customer@mail.com",
+    "password": "customer",
+    "role": "customer"
+  },
+  {
+    "first_name": "customer2",
+    "last_name": "customer2",
+    "email": "customer2@mail.com",
+    "password": "customer",
+    "role": "customer"
+  }
+]

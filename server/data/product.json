@@ -1,0 +1,42 @@
+[
+  {
+    "title": "BANDAI - Astray Red Frame - SD",
+    "image_url": "https://images.tokopedia.net/img/cache/900/product-1/2018/9/1/3587510/3587510_3e8f40c3-5582-4abc-9208-02e581c1ba37_800_800.jpg",
+    "price": 105000,
+    "stock": 10,
+    "CategoryId": 1,
+    "sold": 0
+  },
+  {
+    "title": "HONGLI - Astray Green Frame - HG",
+    "image_url": "https://images.tokopedia.net/img/cache/900/product-1/2020/5/16/338235/338235_fb197102-0202-4104-9389-6e589d87cae2_700_700.jpg",
+    "price": 120000,
+    "stock": 10,
+    "CategoryId": 2,
+    "sold": 0
+  },
+  {
+    "title": "BANDAI - Strike Freedom - RG",
+    "image_url": "https://images.tokopedia.net/img/cache/900/product-1/2020/1/4/88036739/88036739_6d921bdf-826d-45b8-938d-bad4b7b3880f_1114_1114.jpg",
+    "price": 539000,
+    "stock": 10,
+    "CategoryId": 3,
+    "sold": 0
+  },
+  {
+    "title": "DABAN - Sazabi Ver.Ka - MG",
+    "image_url": "https://images.tokopedia.net/img/cache/900/product-1/2015/9/4/18396416/18396416_b4b725e7-bca3-4636-b913-f34ed3151ef7.jpg",
+    "price": 670000,
+    "stock": 10,
+    "CategoryId": 4,
+    "sold": 0
+  },
+  {
+    "title": "BANDAI - Unicorn - PG",
+    "image_url": "https://images.tokopedia.net/img/cache/900/product-1/2016/6/30/4908894/4908894_9adfd3b8-e19b-4dc0-a0db-56a58aed76a9.jpg",
+    "price": 3400000,
+    "stock": 10,
+    "CategoryId": 5,
+    "sold": 0
+  }
+]
