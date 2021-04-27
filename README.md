@@ -1,4 +1,4 @@
-# Ternak Gunpla - Client
+# Ternak Gunpla
 
 ### [Live Site](https://ternak-gunpla.web.app/)
 
